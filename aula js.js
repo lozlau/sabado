@@ -4,3 +4,6 @@ if (sol) {
 } else {
     console.log("Vamos ficar em casa.");
 }
+
+Brigity
+Maria Gabrielle

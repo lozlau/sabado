@@ -1,0 +1,11 @@
+#Exercício 3 - Calculadora
+a = float(input("Digite o primeiro número: "))
+b = float(input("Digite o segundo número: "))
+print("*******************************************")
+print("A soma é", a + b)
+print("A subtração é", a - b)
+print("A multiplicação é", a * b)
+print("A divisão é", a / b)
+print("O resto é", a % b)
+print("Potencia", a ** b)
+print("*******************************************")
